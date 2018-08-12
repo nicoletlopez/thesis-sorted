@@ -52,3 +52,8 @@ Digit
 7
 8
 9
+
+MISC
+Wrongly segmented
+2~ characters in one
+non-alphabet characters
