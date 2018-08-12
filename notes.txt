@@ -1,0 +1,54 @@
+Merged
+C - c
+I - i
+J - j
+K - k
+L - l
+M - m
+O - o
+P - p
+S - s
+U - u
+V - v
+W - w
+X - x
+Y - y
+Z - z
+
+Uppercase
+A
+B
+D
+E
+F
+G
+H
+N
+Q
+R
+T
+
+Lowercase
+a
+b
+d
+e
+f
+g
+h
+n
+q
+r
+t
+
+Digit
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
